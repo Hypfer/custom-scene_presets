@@ -1,0 +1,166 @@
+{
+  "categories": [
+    {
+      "name": "Color Temperatures",
+      "id": "e0c17262-f84b-4943-bdd5-fcd24c574f24"
+    }
+  ],
+  "presets": [
+    {
+      "id": "eaa3940f-4e40-47ec-b2fe-98ddddbcc856",
+      "categoryId": "e0c17262-f84b-4943-bdd5-fcd24c574f24",
+      "name": "1000 Kelvin",
+      "img": "eaa3940f-4e40-47ec-b2fe-98ddddbcc856.png",
+      "bri": 76,
+      "lights": [
+        {
+          "x": 0.711,
+          "y": 0.2867
+        }
+      ]
+    },
+    {
+      "id": "341e448b-cde8-4c41-a65b-12afa2a2eb05",
+      "categoryId": "e0c17262-f84b-4943-bdd5-fcd24c574f24",
+      "name": "1100 Kelvin",
+      "img": "341e448b-cde8-4c41-a65b-12afa2a2eb05.png",
+      "bri": 76,
+      "lights": [
+        {
+          "x": 0.6976,
+          "y": 0.2988
+        }
+      ]
+    },
+    {
+      "id": "f3058a7b-6316-4f79-aa90-41920293b319",
+      "categoryId": "e0c17262-f84b-4943-bdd5-fcd24c574f24",
+      "name": "1200 Kelvin",
+      "img": "f3058a7b-6316-4f79-aa90-41920293b319.png",
+      "bri": 76,
+      "lights": [
+        {
+          "x": 0.6849,
+          "y": 0.3104
+        }
+      ]
+    },
+    {
+      "id": "f8de8699-38ec-4599-bd8c-e85d3a12b271",
+      "categoryId": "e0c17262-f84b-4943-bdd5-fcd24c574f24",
+      "name": "1300 Kelvin",
+      "img": "f8de8699-38ec-4599-bd8c-e85d3a12b271.png",
+      "bri": 76,
+      "lights": [
+        {
+          "x": 0.6729,
+          "y": 0.3212
+        }
+      ]
+    },
+    {
+      "id": "38a85000-6712-406e-bd9b-abc95fdc10d9",
+      "categoryId": "e0c17262-f84b-4943-bdd5-fcd24c574f24",
+      "name": "1400 Kelvin",
+      "img": "38a85000-6712-406e-bd9b-abc95fdc10d9.png",
+      "bri": 76,
+      "lights": [
+        {
+          "x": 0.6625,
+          "y": 0.3306
+        }
+      ]
+    },
+    {
+      "id": "d50f702e-c13a-42db-9e7b-1a343adf0b73",
+      "categoryId": "e0c17262-f84b-4943-bdd5-fcd24c574f24",
+      "name": "1500 Kelvin",
+      "img": "d50f702e-c13a-42db-9e7b-1a343adf0b73.png",
+      "bri": 76,
+      "lights": [
+        {
+          "x": 0.6515,
+          "y": 0.3405
+        }
+      ]
+    },
+    {
+      "id": "07d728af-6f74-4639-a7a1-c4018fae9480",
+      "categoryId": "e0c17262-f84b-4943-bdd5-fcd24c574f24",
+      "name": "1600 Kelvin",
+      "img": "07d728af-6f74-4639-a7a1-c4018fae9480.png",
+      "bri": 76,
+      "lights": [
+        {
+          "x": 0.6429,
+          "y": 0.3483
+        }
+      ]
+    },
+    {
+      "id": "c26db6ca-f1f3-46b6-803a-f3cd08568066",
+      "categoryId": "e0c17262-f84b-4943-bdd5-fcd24c574f24",
+      "name": "1700 Kelvin",
+      "img": "c26db6ca-f1f3-46b6-803a-f3cd08568066.png",
+      "bri": 76,
+      "lights": [
+        {
+          "x": 0.634,
+          "y": 0.3564
+        }
+      ]
+    },
+    {
+      "id": "512bd213-bd8d-4504-b28a-9d04c97be155",
+      "categoryId": "e0c17262-f84b-4943-bdd5-fcd24c574f24",
+      "name": "1800 Kelvin",
+      "img": "512bd213-bd8d-4504-b28a-9d04c97be155.png",
+      "bri": 76,
+      "lights": [
+        {
+          "x": 0.6264,
+          "y": 0.3632
+        }
+      ]
+    },
+    {
+      "id": "d6845b1e-a441-4356-85f3-34b1042f7583",
+      "categoryId": "e0c17262-f84b-4943-bdd5-fcd24c574f24",
+      "name": "1900 Kelvin",
+      "img": "d6845b1e-a441-4356-85f3-34b1042f7583.png",
+      "bri": 76,
+      "lights": [
+        {
+          "x": 0.6187,
+          "y": 0.3702
+        }
+      ]
+    },
+    {
+      "id": "917e86c9-f442-4133-a44c-2db94715a7d5",
+      "categoryId": "e0c17262-f84b-4943-bdd5-fcd24c574f24",
+      "name": "2000 Kelvin",
+      "img": "917e86c9-f442-4133-a44c-2db94715a7d5.png",
+      "bri": 76,
+      "lights": [
+        {
+          "x": 0.6046,
+          "y": 0.3778
+        }
+      ]
+    },
+    {
+      "id": "5d495d3d-78a1-482e-83fb-0d511b8cf17c",
+      "categoryId": "e0c17262-f84b-4943-bdd5-fcd24c574f24",
+      "name": "2100 Kelvin",
+      "img": "5d495d3d-78a1-482e-83fb-0d511b8cf17c.png",
+      "bri": 76,
+      "lights": [
+        {
+          "x": 0.5938,
+          "y": 0.3799
+        }
+      ]
+    }
+  ]
+}
